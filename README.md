@@ -20,7 +20,7 @@ run,
 `cd /mnt/c/Seq-Gen`
 
 This will navigate you to the Seq-Gen directory. Now you can run Seq-Gen commands to generate data! Or, you can take advantage of the code in data_gen.py.
-My code will generate a batch file that will create multiple (or just one, you choose) datasets and commands at once. Once you run data_gen, simply type into Ubuntu,
+My code will populate a batch file that will create multiple (or just one, you choose) datasets and commands at once. Once you run data_gen, simply type into Ubuntu,
 `./mysh.sh`
 and the data will be saved to a number of folders in the Seq-Gen directory. I've also commented areas in my code that are places to customize and change how your data is generated and saved.
 
